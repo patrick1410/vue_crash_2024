@@ -97,6 +97,20 @@
         "contactPhone": "555-555-1234"
       },
       "id": "f597"
+    },
+    {
+      "type": "Part-Time",
+      "title": "UX/UI Designer",
+      "description": "We're looking for a creative and detail-oriented UX/UI Designer to join our remote team. You'll be responsible for designing intuitive and visually appealing user interfaces for web and mobile applications. Experience with wireframing, prototyping, and design tools like Sketch or Figma is required.",
+      "salary": "Under $50K",
+      "location": "Remote",
+      "company": {
+        "name": "Austin, TX",
+        "description": "DesignWorks Studio is a dynamic design agency focused on delivering user-centered design solutions to businesses of all sizes. We prioritize creativity, collaboration, and innovative design to ensure our clients succeed in a competitive digital landscape.",
+        "contactEmail": "careers@designworks.com",
+        "contactPhone": "555-555-6789"
+      },
+      "id": "cd67"
     }
   ]
 }
